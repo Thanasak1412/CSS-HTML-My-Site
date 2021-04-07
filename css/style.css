@@ -1,0 +1,131 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "New Tegomin", "Lora", "Fanwood Text", serif;
+}
+
+.top-container {
+  background-color: #eaf6f6;
+  position: relative;
+  padding: 100px;
+}
+
+h1 {
+  margin: 50px auto 0px auto;
+  font-size: 5.625rem;
+  color: #66bfbf;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #66bfbf;
+}
+
+p {
+  line-height: 2;
+}
+
+h3,
+a {
+  color: #11999e;
+  text-decoration: none;
+}
+
+.profile-description {
+  color: #40514e;
+  width: 30%;
+  text-align: left;
+  margin: auto;
+}
+
+hr {
+  border-style: none;
+  border-top: 10px dotted #eaf6f6;
+  width: 6%;
+}
+
+.cloud-top {
+  position: absolute;
+  right: 300px;
+  top: 10px;
+}
+
+.programmer,
+.pro {
+  color: #11999e;
+  font-weight: normal;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.cloud-bottom {
+  position: absolute;
+  left: 300px;
+  top: 170px;
+}
+
+.mountain {
+  height: 300px;
+  width: 300px;
+}
+
+.middle-container .profile .profile-img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  padding: 20px;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+  width: 50%;
+}
+
+.coding-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.games-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  color: #11999e;
+}
+
+.get-in-touch {
+    width: 40%;
+    margin: auto;
+    padding-bottom: 100px;
+}
+
+.btn {
+  background-color: #66bfbf;
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 45px;
+  margin-top: 100px;
+  padding: 50px;
+}
+
+.footer-link-LinkedIn,
+.footer-link-twitter,
+.footer-link-website {
+  color: #11999e;
+  margin: 0px 0px 40px 50px;
+}
+
+.copyright {
+  color: #eaf6f6;
+}
